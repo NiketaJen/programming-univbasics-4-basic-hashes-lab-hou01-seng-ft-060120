@@ -4,6 +4,7 @@ end
 
 def my_hash
   my_hash={favorite_color: "money green"
+  }
 end
 
 def pioneer
